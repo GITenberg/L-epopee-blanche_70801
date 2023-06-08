@@ -1,0 +1,64 @@
+_repo: L-epopee-blanche_70801
+_version: 0.0.1
+contributor:
+  author_of_introductions:
+  - agent_name: Dubois, Louis-Ernest
+    alias: Dubois, Louis Ernest
+    birthdate: 1856
+    deathdate: 1929
+    gutenberg_agent_id: '55930'
+    url: http://www.gutenberg.org/2009/agents/55930
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Louis-Ernest_Dubois
+    - https://fr.wikipedia.org/wiki/Louis-Ernest_Dubois
+  - agent_name: Rossum, Willem van
+    aliases:
+    - Van Rossum, Willem
+    - Rossum, Willem Marinus van
+    - Rossum, Wilhelmus Marinus van
+    - Rossum, Guglielmo van
+    - Rossum, W. M. van
+    - Rossum, G. M. van
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '55931'
+    url: http://www.gutenberg.org/2009/agents/55931
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Willem_Marinus_van_Rossum
+    - https://fr.wikipedia.org/wiki/Willem_Marinus_van_Rossum
+creator:
+  author:
+    agent_name: Rouquette, Louis-Frédéric
+    aliases:
+    - Rouquette, Louis Frédérick
+    - Rouquette, Louis-Frederic
+    - Rouquette, Louis Frederick
+    birthdate: 1884
+    deathdate: 1926
+    gutenberg_agent_id: '52351'
+    url: http://www.gutenberg.org/2009/agents/52351
+    wikipedia: https://fr.wikipedia.org/wiki/Louis-Fr%C3%A9d%C3%A9ric_Rouquette
+description: ''
+gutenberg_issued: '2023-05-19'
+identifiers:
+  gutenberg: '70801'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k810047
+pgterms:marc905: 20220201034924rouquette
+pgterms:marc906: '1926'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica))
+publication_note: '  $aFrance :$bJ. Ferenczi et fils, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catholic Church -- Missions -- Canada'
+- !lcsh 'Northwest Territories -- Description and travel'
+- !lcc 'BX'
+- !lcc 'F1001'
+- GITenberg
+title: L'épopée blanche
+url: http://www.gutenberg.org/ebooks/70801
