@@ -26,6 +26,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Willem_Marinus_van_Rossum
     - https://fr.wikipedia.org/wiki/Willem_Marinus_van_Rossum
+covers:
+- cover_type: archival
+  image_path: 70801-h/images/cover.jpg
 creator:
   author:
     agent_name: Rouquette, Louis-Frédéric
@@ -39,6 +42,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52351
     wikipedia: https://fr.wikipedia.org/wiki/Louis-Fr%C3%A9d%C3%A9ric_Rouquette
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70801#L-epopee-blanche
 gutenberg_issued: '2023-05-19'
 identifiers:
   gutenberg: '70801'
